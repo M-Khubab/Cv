@@ -86,20 +86,25 @@ export default function Home() {
 
          {/* Projects Section */}
          <section className="mb-8">
-          <h2 className="text-2xl font-semibold text-gray-800 border-b pb-2">Projects</h2>
+          <h2 className="text-2xl font-semibold text-gray-800 border-b pb-2">Here Is Some Projects For More Visit GitHub</h2>
           <ul className="list-disc list-inside text-gray-700 mt-2">
             <li>
-              <a href="https://github.com/M.Khubaib/Todo-List" target="_blank" className="text-blue-500 hover:underline">
+              <a href="https://github.com/M-Khubab/Todo-List" target="_blank" className="text-blue-500 hover:underline">
                 Project 1: Todo-List
               </a> – A portfolio site built with HTML, CSS, and JavaScript, showcasing my projects and skills.
             </li>
             <li>
-              <a href="https://github.com/M-Khubab/project2" target="_blank" className="text-blue-500 hover:underline">
+              <a href="https://github.com/M-Khubab/business-website" target="_blank" className="text-blue-500 hover:underline">
                 Project 2: To-Do List App
               </a> – A React app for task management, utilizing hooks for state management.
             </li>
             <li>
-              <a href="https://github.com/M-Khubab/project3" target="_blank" className="text-blue-500 hover:underline">
+              <a href="https://github.com/M-Khubab/next-website" target="_blank" className="text-blue-500 hover:underline">
+                Project 3: Quiz Application
+              </a> – A quiz app using JavaScript for interactive scoring and feedback.
+            </li>
+            <li>
+              <a href="https://github.com/M-Khubab/next-website" target="_blank" className="text-blue-500 hover:underline">
                 Project 3: Quiz Application
               </a> – A quiz app using JavaScript for interactive scoring and feedback.
             </li>
