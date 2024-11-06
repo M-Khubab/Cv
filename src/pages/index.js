@@ -70,6 +70,66 @@ export default function Home() {
         </ul>
       </section>
 
+      {/* Experience Section */}
+      <section className="mb-8">
+          <h2 className="text-2xl font-semibold text-gray-800 border-b pb-2">Experience</h2>
+          <div className="mt-4 text-gray-700">
+            <div className="mb-6">
+              <h3 className="text-xl font-semibold">Web Developer</h3>
+              <p className="text-gray-600">Intern | Software house | Aug 2024 Till Now – Present</p>
+              <ul className="list-disc list-inside mt-2">
+                <li>
+                  Developed responsive websites using <strong>HTML, CSS, JavaScript,</strong> and <strong>React</strong>, delivering optimized user experiences and dynamic interactions.
+                </li>
+                <li>
+                  Integrated <strong>Firebase</strong> for database management, user authentication, and real-time data updates.
+                </li>
+                <li>
+                  Used <strong>Next.js</strong> and <strong>Vercel</strong> to create server-rendered web applications, improving SEO and load times.
+                </li>
+              </ul>
+            </div>
+
+            <div className="mb-6">
+              <h3 className="text-xl font-semibold">Personal Projects</h3>
+              <p className="text-gray-600">Self-Driven Learning | Jan 2023 – Present</p>
+              <ul className="list-disc list-inside mt-2">
+                <li>
+                  Built a <strong>To-Do List App</strong> using <strong>React</strong>, with task creation and editing.
+                </li>
+                <li>
+                  Created a <strong>Quiz App</strong> using JavaScript with scoring and feedback features.
+                </li>
+                <li>
+                  Designed and deployed a <strong>Portfolio Website</strong> on Vercel.
+                </li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
+          {/* Projects Section */}
+          <section className="mb-8">
+          <h2 className="text-2xl font-semibold text-gray-800 border-b pb-2">Here Is Some Projects For More Visit GitHub</h2>
+          <ul className="list-disc list-inside text-gray-700 mt-2">
+            <li>
+              <a href="https://github.com/M-Khubab/Todo-List" target="_blank" className="text-blue-500 hover:underline">
+                Project 1: Todo-List
+              </a> – Todo-List app built with HTML, CSS, and JavaScript.
+            </li>
+            <li>
+              <a href="https://github.com/M-Khubab/business-website" target="_blank" className="text-blue-500 hover:underline">
+                Project 2: Simple Website
+              </a> – simple website using HTML,CSS and js.
+            </li>
+            <li>
+              <a href="https://github.com/M-Khubab/next-website" target="_blank" className="text-blue-500 hover:underline">
+                Project 3: Animation Website
+              </a> – Animation website using next.js 
+            </li>
+          </ul>
+        </section>
+
       {/* Education Section */}
       <section className="mb-8">
         <h2 className="text-2xl font-semibold text-gray-800 border-b pb-2">Education</h2>
@@ -83,33 +143,6 @@ export default function Home() {
           <li>Arabic</li>
         </ul>
       </section>
-
-         {/* Projects Section */}
-         <section className="mb-8">
-          <h2 className="text-2xl font-semibold text-gray-800 border-b pb-2">Here Is Some Projects For More Visit GitHub</h2>
-          <ul className="list-disc list-inside text-gray-700 mt-2">
-            <li>
-              <a href="https://github.com/M-Khubab/Todo-List" target="_blank" className="text-blue-500 hover:underline">
-                Project 1: Todo-List
-              </a> – A portfolio site built with HTML, CSS, and JavaScript, showcasing my projects and skills.
-            </li>
-            <li>
-              <a href="https://github.com/M-Khubab/business-website" target="_blank" className="text-blue-500 hover:underline">
-                Project 2: To-Do List App
-              </a> – A React app for task management, utilizing hooks for state management.
-            </li>
-            <li>
-              <a href="https://github.com/M-Khubab/next-website" target="_blank" className="text-blue-500 hover:underline">
-                Project 3: Quiz Application
-              </a> – A quiz app using JavaScript for interactive scoring and feedback.
-            </li>
-            <li>
-              <a href="https://github.com/M-Khubab/next-website" target="_blank" className="text-blue-500 hover:underline">
-                Project 3: Quiz Application
-              </a> – A quiz app using JavaScript for interactive scoring and feedback.
-            </li>
-          </ul>
-        </section>
     </div>
   </div>
   );
