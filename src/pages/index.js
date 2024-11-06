@@ -89,22 +89,6 @@ export default function Home() {
                 </li>
               </ul>
             </div>
-
-            <div className="mb-6">
-              <h3 className="text-xl font-semibold">Personal Projects</h3>
-              <p className="text-gray-600">Self-Driven Learning | Jan 2023 – Present</p>
-              <ul className="list-disc list-inside mt-2">
-                <li>
-                  Built a <strong>To-Do List App</strong> using <strong>React</strong>, with task creation and editing.
-                </li>
-                <li>
-                  Created a <strong>Quiz App</strong> using JavaScript with scoring and feedback features.
-                </li>
-                <li>
-                  Designed and deployed a <strong>Portfolio Website</strong> on Vercel.
-                </li>
-              </ul>
-            </div>
           </div>
         </section>
 
