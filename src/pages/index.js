@@ -96,20 +96,16 @@ export default function Home() {
           <section className="mb-8">
           <h2 className="text-2xl font-semibold text-gray-800 border-b pb-2">Here Is Some Projects For More Visit GitHub</h2>
           <ul className="list-disc list-inside text-gray-700 mt-2">
+            
             <li>
-              <a href="https://github.com/M-Khubab/Todo-List" target="_blank" className="text-blue-500 hover:underline">
-                Project 1: Todo-List
-              </a> – Todo-List app built with HTML, CSS, and JavaScript.
+              <a href="https://github.com/M-Khubab/next-website" target="_blank" className="text-blue-500 hover:underline">
+                Project 3: Animation Website
+              </a> – Animation website using next.js 
             </li>
             <li>
               <a href="https://github.com/M-Khubab/business-website" target="_blank" className="text-blue-500 hover:underline">
                 Project 2: Simple Website
               </a> – simple website using HTML,CSS and js.
-            </li>
-            <li>
-              <a href="https://github.com/M-Khubab/next-website" target="_blank" className="text-blue-500 hover:underline">
-                Project 3: Animation Website
-              </a> – Animation website using next.js 
             </li>
           </ul>
         </section>
