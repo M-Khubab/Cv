@@ -51,9 +51,9 @@ export default function Home() {
         <h2 className="text-2xl font-semibold text-gray-800 border-b pb-2">About Me</h2>
         <p className="mt-2 text-gray-700">
           Full-Stack-Devoloper with foundational knowledge in front-end and a bit of back-end
-          development. I've learned core skills like HTML, CSS, JavaScript, and React, and have started exploring
-          Next.js for full-stack applications. Currently, I'm focused Fullstack apps with testing and deployment,
-           with hands-on experience using SQL(database),Node + express.js , Firebase for backend services and AWS,Vercel for deployment.
+          development. I've learned core skills like HTML, CSS, JavaScript, and React,Next.js for full-stack applications. 
+          Currently, I'm focused on building Fullstack web-apps with testing and deployment also,
+           with hands-on experience using Next.js,SQL(database),Node + express.js, AWS,Vercel for deployment.
         </p>
       </section>
       
