@@ -29,7 +29,7 @@ export default function Home() {
           />
         </div>
         <h1 className="text-4xl font-bold text-gray-800">Muhammad Khubaib</h1>
-        <p className="text-xl text-gray-600">Aspiring Full-Stack-Devoloper</p>
+        <p className="text-xl text-gray-600">Full-Stack-Devoloper</p>
         <p className="mt-2">
           <a href="mailto:m.khubaib2422@gmail.com" className="text-blue-500 hover:underline">
             m.khubaib2422@gmail.com
@@ -50,10 +50,10 @@ export default function Home() {
       <section className="mb-8">
         <h2 className="text-2xl font-semibold text-gray-800 border-b pb-2">About Me</h2>
         <p className="mt-2 text-gray-700">
-          I'm an enthusiastic Full-Stack-Devoloper with foundational knowledge in front-end and a bit of back-end
-          development. I've learned core skills in HTML, CSS, JavaScript, and React, and have started exploring
-          Next.js for full-stack applications. Currently, I'm focused on building my skills in both design and
-          development, with hands-on experience using Firebase for backend services and Vercel for deployment.
+          Full-Stack-Devoloper with foundational knowledge in front-end and a bit of back-end
+          development. I've learned core skills like HTML, CSS, JavaScript, and React, and have started exploring
+          Next.js for full-stack applications. Currently, I'm focused Fullstack apps with testing and deployment,
+           with hands-on experience using SQL(database),Node + express.js , Firebase for backend services and AWS,Vercel for deployment.
         </p>
       </section>
       
@@ -63,10 +63,10 @@ export default function Home() {
         <h2 className="text-2xl font-semibold text-gray-800 border-b pb-2">Skills</h2>
         <ul className="list-disc list-inside text-gray-700 mt-2">
           <li><strong>Languages:</strong> HTML, CSS, JavaScript</li>
-          <li><strong>Frameworks & Libraries:</strong> React, Next.js</li>
-          <li><strong>Styling:</strong> Tailwind CSS, Bootstrap, Acternity UI,ant design,</li>
-          <li><strong>Backend & Databases:</strong> Firebase, SQL,node.js,rest api's (basic understanding)</li>
-          <li><strong>Tools & Platforms:</strong> GitHub, Vercel</li>
+          <li><strong>Frameworks & Libraries:</strong> React, Next.js,node.js,express,js</li>
+          <li><strong>Styling:</strong> Tailwind CSS, Bootstrap, Acternity UI,ant design,shade cn,material ui</li>
+          <li><strong>Backend & Databases:</strong> Firebase, SQL,node.js,express.js,manogoDB (basic understanding)</li>
+          <li><strong>Tools & Platforms:</strong> GitHub, Vercel,AWS</li>
         </ul>
       </section>
 
@@ -79,10 +79,10 @@ export default function Home() {
               <p className="text-gray-600">Intern | Software house | Aug 2024 Till Now – Present</p>
               <ul className="list-disc list-inside mt-2">
                 <li>
-                  Developed responsive websites using <strong>HTML, CSS, JavaScript,</strong> and <strong>React</strong>, delivering optimized user experiences and dynamic interactions.
+                  Developed responsive websites using <strong>HTML, CSS, JavaScript,</strong> and <strong>React,Next.js,Node.js,</strong>, delivering optimized user experiences and dynamic interactions.
                 </li>
                 <li>
-                  Integrated <strong>Firebase</strong> for database management, user authentication, and real-time data updates.
+                  Integrated <strong>SQL,MangoDB,Firebase</strong> for database management, user authentication, and real-time data updates.
                 </li>
                 <li>
                   Used <strong>Next.js</strong> and <strong>Vercel</strong> to create server-rendered web applications, improving SEO and load times.
@@ -98,7 +98,7 @@ export default function Home() {
           <ul className="list-disc list-inside text-gray-700 mt-2">
             
             <li>
-              <a href="https://github.com/M-Khubab/next-website" target="_blank" className="text-blue-500 hover:underline">
+              <a href="https://next-website-tawny-delta.vercel.app/" target="_blank" className="text-blue-500 hover:underline">
                 Project 3: Animation Website
               </a> – Animation website using next.js 
             </li>
@@ -114,11 +114,8 @@ export default function Home() {
       <section className="mb-8">
         <h2 className="text-2xl font-semibold text-gray-800 border-b pb-2">Education</h2>
         <ul className="list-disc list-inside text-gray-700 mt-2">
-          <li><strong>Online Courses:</strong></li>
-          <li>Front-End Web Development (HTML, CSS, JavaScript) – YouTube</li>
-          <li>React Basics – YouTube</li>
-          <li>Introduction to Next.js – YouTube</li>
-          <li>O-level's</li>
+          <li><strong>Degree:BCS</strong></li>
+          <li>Self Learning</li>
           <li>Hifz</li>
           <li>Arabic</li>
         </ul>
