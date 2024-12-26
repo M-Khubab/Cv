@@ -63,9 +63,9 @@ export default function Home() {
         <h2 className="text-2xl font-semibold text-gray-800 border-b pb-2">Skills</h2>
         <ul className="list-disc list-inside text-gray-700 mt-2">
           <li><strong>Languages:</strong> HTML, CSS, JavaScript</li>
-          <li><strong>Frameworks & Libraries:</strong> React, Next.js,node.js,express,js</li>
-          <li><strong>Styling:</strong> Tailwind CSS, Bootstrap, Acternity UI,ant design,shade cn,material ui</li>
-          <li><strong>Backend & Databases:</strong> Firebase, SQL,node.js,express.js,manogoDB (basic understanding)</li>
+          <li><strong>Frameworks & Libraries:</strong> React, Next.js,Node.js,Express,js</li>
+          <li><strong>Styling:</strong> Tailwind CSS, Bootstrap, Acternity UI,Ant design,Shade cn,Material ui</li>
+          <li><strong>Backend & Databases:</strong> Firebase, SQL,Node.js,Express.js,ManogoDB (basic understanding)</li>
           <li><strong>Tools & Platforms:</strong> GitHub, Vercel,AWS</li>
         </ul>
       </section>
@@ -114,12 +114,13 @@ export default function Home() {
       <section className="mb-8">
         <h2 className="text-2xl font-semibold text-gray-800 border-b pb-2">Education</h2>
         <ul className="list-disc list-inside text-gray-700 mt-2">
-          <li><strong>Degree:BCS</strong></li>
+          <li>Degree:BCS</li>
           <li>Self Learning</li>
           <li>Hifz</li>
           <li>Arabic</li>
         </ul>
       </section>
+      {/* <a href={cv} download="FullStack Devoloper cv.pdf"> Download CV </a> */}
     </div>
   </div>
   );
